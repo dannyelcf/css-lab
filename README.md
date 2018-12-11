@@ -11,6 +11,7 @@ This repository contains my studies and experiments with CSS.
 - Layout with float property (4): [link](/layout_with_float_4.html)
 - Layout with float property (5): [link](/layout_with_float_5.html)
 - Layout with float property (6): [link](/layout_with_float_6.html)
+- Layout with float property (7): [link](/layout_with_float_7.html)
 
 ## References
 
